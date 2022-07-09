@@ -35,7 +35,7 @@ proxy-providers:
   NeteaseMusic:
     type: http
     path: ./Proxy/NeteaseMusic.yaml
-    url: https://cdn.staticaly.com/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/Clash/Proxy/NeteaseMusic.yaml
+    url: https://raw.githubusercontent.com/Hypocisy/Rules-for-UnblockNeteaseMusic/master/Clash/Proxy/NeteaseMusic.yaml
     interval: 3600
     health-check:
       enable: true
